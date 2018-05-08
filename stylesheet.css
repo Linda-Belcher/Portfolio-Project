@@ -2,8 +2,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+.header-image{
+}
 .hero-logo{
-  padding-bottom: 50px
+  padding-bottom: 20px
 }
 .thumbnail {
     border: 0 none;
